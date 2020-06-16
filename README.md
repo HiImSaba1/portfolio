@@ -1,2 +1,2 @@
-# portfolio
-This my Personal Potfolio deployed with giyhub pages.
+# one-page-portfolio-responsive
+Copy or Clone the project -> put it in your framework -> Open with Live Server -> enjoy !! <3
